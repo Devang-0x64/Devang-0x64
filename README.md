@@ -1,4 +1,4 @@
-## Hello! Welcome! Hope you find my page interesting. 🙂
+## Hello! Welcome! 🙂
 
 <!--
 **Devang-0x64/Devang-0x64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
